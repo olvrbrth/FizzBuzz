@@ -1,6 +1,5 @@
-package com.olvrbrth.fizzbuzz.test;
+package com.olvrbrth.fizzbuzz;
 
-import com.olvrbrth.fizzbuzz.FizzBuzz;
 import org.junit.Assert;
 import org.junit.Test;
 
